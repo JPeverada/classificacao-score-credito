@@ -30,4 +30,4 @@ Este projeto consiste em um script Python que utiliza inteligência artificial p
 Certifique-se de ter as bibliotecas necessárias instaladas no seu ambiente:
 
 ```bash
-pip install pandas scikit-learn
+pip install pandas scikit-learn openpyxl
